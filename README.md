@@ -1,9 +1,7 @@
 # **Unity beginner developer - Daily**
 
 ### **정재하**
-### **2003.04.29**
-<img src="https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black">
-<img src="https://img.shields.io/badge/c#-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+### **2003.04.29** <img src="https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black">
 
 ## Unity Projects
 
