@@ -2,7 +2,7 @@
 
 ### **정재하**
 ### **2003.04.29**
-<img src="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=white">
 
 ## Unity Projects
 
