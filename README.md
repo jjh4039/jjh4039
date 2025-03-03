@@ -1,6 +1,7 @@
 # **Unity beginner developer - Daily**
 
-### 정재하 < 03.04.29 >
+### **정재하 **
+### **03.04.29**
 
 ## Unity Projects
 
