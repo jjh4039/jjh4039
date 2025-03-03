@@ -11,12 +11,13 @@
 
 #### 
 ##
-#### **ProjectB) Tactical Run / 25.1.13 ~ 25.2.24**
+#### **ProjectB) Tactical Run < 25.1.13 ~ 25.2.24 >**
 <img src=https://github.com/user-attachments/assets/163fac54-55ec-424d-b734-763d42381670 width="400" height="225"/>
 <img src=https://github.com/user-attachments/assets/a365bd57-d140-4bc0-967b-b9eac05d7a17 width="400" height="225"/>
-##
-#### **ProjectC) Fruit Warrior / 25.03.01 ~ 개발중**
+
+####
+## **ProjectC) Fruit Warrior / 25.03.01 ~ 개발중**
 
 
 ##
-✉️ : jjh4039@naver.com
+###✉️ : jjh4039@naver.com
