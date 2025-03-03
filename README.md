@@ -1,7 +1,8 @@
 # **Unity beginner developer - Daily**
 
 
-## 정재하 (jeongJaeHa) : jjh4039@naver.com
+## 2003.04.29 정재하
+
 
 
 ## Unity Projects
