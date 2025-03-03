@@ -16,7 +16,8 @@
 <img src=https://github.com/user-attachments/assets/a365bd57-d140-4bc0-967b-b9eac05d7a17 width="400" height="225"/>
 
 ####
-## **ProjectC) Fruit Warrior / 25.03.01 ~ 개발중**
+##
+### **ProjectC) Fruit Warrior / 25.03.01 ~ 개발중**
 
 
 ##
