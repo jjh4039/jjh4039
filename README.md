@@ -1,4 +1,4 @@
-# **Unity beginner developer - Daily**
+**Unity beginner developer - Daily**
 
 
 
@@ -11,5 +11,5 @@
 #### 액션요소 추가 2D 플랫포머
 #### 개발일지 - 
 ***
-### **ProjectC) Achievement Run / 25.03.01 ~ 개발중** - 깃허브 활용 및 2인 개발
+### **ProjectC) Fruit Warrior / 25.03.01 ~ 개발중** - 깃허브 활용 및 2인 개발
 #### 개발일지
