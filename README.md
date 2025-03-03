@@ -1,4 +1,4 @@
-# **Unity beginner developer - Daily**
+# **Unity developer - Daily**
 
 ### **정재하**
 ### **2003.04.29**
