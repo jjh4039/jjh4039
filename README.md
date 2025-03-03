@@ -2,7 +2,8 @@
 
 ### **정재하**
 ### **2003.04.29**
-<img src="https://img.shields.io/badge/C#-3776AB?style=for-the-badge&logo=C#&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=Unity&logoColor=white">
+
 ## Unity Projects
 
 ### **ProjectA) Achievement Run < 24.12.22 ~ 25.01.09 >**
