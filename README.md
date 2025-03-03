@@ -7,7 +7,7 @@
 ## Unity Projects
 ## **ProjectA) Achievement Run / 24.12.22 ~ 25.01.09**
 
-<img src=https://github.com/user-attachments/assets/0d00eeae-8f97-4cce-9d47-a6e45272ae94  width="200" height="400"/>
+<img src=https://github.com/user-attachments/assets/0d00eeae-8f97-4cce-9d47-a6e45272ae94 width="200" height="400"/>
 <img src=https://github.com/user-attachments/assets/884554c2-b8b5-4568-82b9-85a28ac31a3c width="200" height="400"/>
 #### **ProjectB) Tactical Run / 25.1.13 ~ 25.2.24**
 ##
@@ -16,5 +16,3 @@
 
 
 ### ✉️ : jjh4039@naver.com
-![123](https://github.com/user-attachments/assets/0d00eeae-8f97-4cce-9d47-a6e45272ae94)
-![234](https://github.com/user-attachments/assets/884554c2-b8b5-4568-82b9-85a28ac31a3c)
