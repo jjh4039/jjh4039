@@ -1,7 +1,7 @@
 # **Unity beginner developer - Daily**
 
-### **정재하 **
-### **03.04.29**
+### **정재하**
+### **2003.04.29**
 
 ## Unity Projects
 
@@ -19,4 +19,3 @@
 
 
 ### ✉️ : jjh4039@naver.com
-![234](https://github.com/user-attachments/assets/7113e1e6-136a-402c-84ad-11e6b81a60a2)
