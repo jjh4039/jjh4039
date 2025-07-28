@@ -1,4 +1,4 @@
-# **Unity developer - Daily**
+# **Unity developer**
 
 ### **정재하**
 ### **2003.04.29**
