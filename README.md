@@ -7,7 +7,9 @@
 ## Experience & Activities
 
 **WSC 2025 웨루 게임 개발자 컨퍼런스 참여 (2025.08.22)**
+
 **교내 게임개발 소모임 창립 및 운영 [Serendipity] (2025.08.25 ~)**
+
 **Diverse small-scale Unity projects**
 
 ## Unity Projects
