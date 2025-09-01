@@ -6,11 +6,11 @@
 
 ## Experience & Activities
 
-**& WSC 2025 웨루 게임개발자 컨퍼런스 참여** (2025.08.22)
+**& - WSC 2025 웨루 게임개발자 컨퍼런스 참여** (2025.08.22)
 
-**& 교내 게임개발 소모임 [Serendipity] 창립 및 운영** (2025.08.25 ~)
+**& - 교내 게임개발 소모임 [Serendipity] 창립 및 운영** (2025.08.25 ~)
 
-**& Diverse Small-Scale Unity projects**
+**& - Diverse Small-Scale Unity projects**
 
 ## Unity Projects
 
