@@ -8,7 +8,7 @@
 
 **WSC 2025 웨루 게임개발자 컨퍼런스 참여** ( 2025.08.22 )
 
-**교내 게임개발 소모임 Serendipity 창립 및 운영** ( 2025.08.25 ~ )
+**교내 게임개발 소모임 Serendipity 창립 및 운영** ( 2025.08.25 ~ 현재 )
 
 **Diverse Small-Scale Unity projects**
 
