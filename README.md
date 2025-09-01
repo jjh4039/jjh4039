@@ -5,7 +5,11 @@
 <img src="https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black">
 
 ## Experience & Activities
+**Diverse small-scale Unity projects (2024.12.22 ~ )**
 
+**WSC 2025 웨루 게임 개발자 컨퍼런스 참여 ( 2025.08.22 )**
+
+**교내 게임개발 소모임 창립 및 운영 [Serendipity] (2025.08.25 ~ )**
 ## Unity Projects
 
 #### **ProjectA) Achievement Run < 24.12.22 ~ 25.01.09 >**
