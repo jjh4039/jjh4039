@@ -10,6 +10,8 @@
 
 **교내 게임개발 소모임 Serendipity 창립 및 운영**   ( 2025.08.25 ~ 현재 )
 
+**교내 제16회 미디어컨텐츠 경진대회 ** <font color="#CD7F32">**동상 (3등)**</font> **수상**
+
 **Diverse Small-Scale Unity Projects**
 
 ## Unity Projects
