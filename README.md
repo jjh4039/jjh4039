@@ -6,12 +6,9 @@
 
 ## Experience & Activities
 
-**WSC 2025 웨루 게임개발자 컨퍼런스 참여** ![날짜](https://img.shields.io/badge/2025.08.22-007bff?style=flat-square) )
-
-
-**교내 게임개발 소모임 Serendipity 창립 및 운영** ( ![날짜](https://img.shields.io/badge/2025.08.25_~_현재-007bff?style=flat-square) )
-
-**교내 제 16회 미디어컨텐츠 경진대회 🥉동상(3등) 수상** ( ![날짜](https://img.shields.io/badge/2025.11.28-007bff?style=flat-square), **Time-Runner** )
+| WSC 2025 웨루 게임개발자 컨퍼런스 참여 | ![날짜](https://img.shields.io/badge/2025.08.22-007bff?style=flat-square) |
+| 교내 게임개발 소모임 Serendipity 창립 및 운영 | ![날짜](https://img.shields.io/badge/2025.08.25_~_현재-007bff?style=flat-square) |
+| 교내 제 16회 미디어컨텐츠 경진대회 🥉동상(3등) 수상 (**Time-Runner**) | ![날짜](https://img.shields.io/badge/2025.11.28-007bff?style=flat-square) |
 
 
 **Diverse Small-Scale Unity Projects**
