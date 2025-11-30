@@ -10,7 +10,8 @@
 
 **교내 게임개발 소모임 Serendipity 창립 및 운영**   ( 2025.08.25 ~ 현재 )
 
-**교내 제 16회 미디어컨텐츠 경진대회 🥉동상(3등) 수상** ( 2025.11.28 )
+**교내 제 16회 미디어컨텐츠 경진대회 🥉동상(3등) 수상** ( 2025.11.28, Time-Runner )
+
 
 **Diverse Small-Scale Unity Projects**
 
@@ -27,11 +28,11 @@
 
 ###
 ### **ProjectC) Fruit Warrior < 25.03.01 ~ 25.05.18 >**
-![Image](https://github.com/user-attachments/assets/a8ba86b6-e2a5-4bd1-9229-951089f4b0f9) 
 ![Image](https://github.com/user-attachments/assets/99c7b09c-7cb9-43f9-b3c1-25ea6512350d)
 
 ###
 ### **ProjectD) Time-Runner < 25.09.01 ~ 25.10.30 >**
+
 
 #
 
