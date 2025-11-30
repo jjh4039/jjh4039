@@ -6,9 +6,10 @@
 
 ## Experience & Activities
 
-**WSC 2025 웨루 게임개발자 컨퍼런스 참여**   <font color="red">( 2025.08.22 )</font>
+**WSC 2025 웨루 게임개발자 컨퍼런스 참여** ( 2025.08.22 )
+![날짜](https://img.shields.io/badge/2025.08.22-007bff?style=flat-square) )
 
-**교내 게임개발 소모임 Serendipity 창립 및 운영**   ( 2025.08.25 ~ 현재 )
+**교내 게임개발 소모임 Serendipity 창립 및 운영** ( 2025.08.25 ~ 현재 )
 
 **교내 제 16회 미디어컨텐츠 경진대회 🥉동상(3등) 수상** ( 2025.11.28, **Time-Runner** )
 
