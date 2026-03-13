@@ -16,11 +16,8 @@
 
 ## Unity Projects
 
-### Project A : [ Achievement Run ] &nbsp;![기간](https://img.shields.io/badge/24.12.22_~_25.01.09-343a40?style=flat-square)
-### Project B : [ Tactical Run ] &nbsp;![기간](https://img.shields.io/badge/25.01.13_~_25.02.24-343a40?style=flat-square)
-<img src=https://github.com/user-attachments/assets/163fac54-55ec-424d-b734-763d42381670 width="300" height="169"/> 
-<img src=https://github.com/user-attachments/assets/a365bd57-d140-4bc0-967b-b9eac05d7a17 width="300" height="169"/> 
----
+#### Project A : [ Achievement Run ] &nbsp;![기간](https://img.shields.io/badge/24.12.22_~_25.01.09-343a40?style=flat-square)
+#### Project B : [ Tactical Run ] &nbsp;![기간](https://img.shields.io/badge/25.01.13_~_25.02.24-343a40?style=flat-square)
 ### Project C : [ Fruit Warrior ] &nbsp;![기간](https://img.shields.io/badge/25.03.01_~_25.05.18-343a40?style=flat-square)
 <img src=https://github.com/user-attachments/assets/99c7b09c-7cb9-43f9-b3c1-25ea6512350d width="400" height="225"/> 
 <img src=https://github.com/user-attachments/assets/f974d3ac-d905-4d50-b739-756526e57936 width="400" height="225"/>
