@@ -1,6 +1,6 @@
 # **Unity developer**
 
-### **정재하**
+### **정재하 (Serendy)**
 ### **2003.04.29**
 <img src="https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black">
 
@@ -17,8 +17,6 @@
 ## Unity Projects
 
 ### Project A : [ Achievement Run ] &nbsp;![기간](https://img.shields.io/badge/24.12.22_~_25.01.09-343a40?style=flat-square)
-<img src=https://github.com/user-attachments/assets/0d00eeae-8f97-4cce-9d47-a6e45272ae94 width="300" height="169"/> 
-<img src=https://github.com/user-attachments/assets/7113e1e6-136a-402c-84ad-11e6b81a60a2 width="300" height="169"/> 
 --
 ### Project B : [ Tactical Run ] &nbsp;![기간](https://img.shields.io/badge/25.01.13_~_25.02.24-343a40?style=flat-square)
 <img src=https://github.com/user-attachments/assets/163fac54-55ec-424d-b734-763d42381670 width="300" height="169"/> 
