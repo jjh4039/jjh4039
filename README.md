@@ -1,4 +1,4 @@
-# **Unity developer**
+# **Unity Game developer**
 
 ### **정재하 (Serendy)**
 ### **2003.04.29**
