@@ -37,4 +37,4 @@
 ---
 
 
-### ✉️ : jjh4039@naver.com 
+### ✉️ : jaeha.serendy@gmail.com
