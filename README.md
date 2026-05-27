@@ -2,7 +2,7 @@
 
 ### **정재하 (Serendy)**
 
-##### **유니티 기반 인디게임 개발자**
+##### **인디게임 개발자**
 ##### **도트 그래픽과 핵심 시스템 중심의 게임을 개발합니다.**
 
 <img src="https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black">
