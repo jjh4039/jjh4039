@@ -2,8 +2,8 @@
 
 ### **정재하 (Serendy)**
 
-##### **인디게임 개발자**
-##### **도트 그래픽과 핵심 시스템 중심의 게임을 개발합니다.**
+##### **Indie Game Developer**
+###### **도트 그래픽과 핵심 시스템 중심의 게임을 개발합니다.**
 
 <img src="https://img.shields.io/badge/unity-ffffff?style=for-the-badge&logo=unity&logoColor=black">
 
@@ -13,13 +13,14 @@
 | **경험 및 활동** | **기간** |
 | :--- | :--- |
 | **WSC 2025 웨루 게임개발자 컨퍼런스 참여** | ![날짜](https://img.shields.io/badge/2025.08.22-343a40?style=flat-square) |
-| **교내 게임개발 소모임 Serendipity 창립 및 운영** | ![날짜](https://img.shields.io/badge/2025.08.25_~_Present-343a40?style=flat-square) |
+| **교내 게임개발 소모임 Serendipity 창립 및 운영** | ![날짜](https://img.shields.io/badge/2025.08.25-343a40?style=flat-square) |
 | **교내 16회 미디어콘텐츠 경진대회 동상(3등)🥉수상    [ Time-Runner ]** | ![날짜](https://img.shields.io/badge/2025.11.28-28a745?style=flat-square) |
+| **Serendy 공식 디스코드 개설** | ![날짜](https://img.shields.io/badge/2026.05.24-5865F2?style=flat-square) |
 | **Diverse Small-Scale Unity Projects** |
 
 ## Ongoing Projects
 
-### Project E : [ Hexagram ] &nbsp;![기간](https://img.shields.io/badge/25.12.16_~_Present-343a40?style=flat-square) 
+### Project E : [ Hexagram ] &nbsp;![기간](https://img.shields.io/badge/25.12.16_~_Present-343a40?style=flat-square) ![배포](https://img.shields.io/badge/Beta_Distribution-007bff?style=flat-square)
 <img src=https://github.com/user-attachments/assets/c3f5e17f-9d97-4df3-ab85-412915b3507e width="400" height="225"/> 
 <img src=https://github.com/user-attachments/assets/04ccc055-b585-43ad-bfcb-9ede5fc0c0fd width="400" height="225"/>
 
