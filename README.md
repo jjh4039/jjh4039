@@ -20,7 +20,7 @@
 
 ## Ongoing Projects
 
-### Project E : [ Hexagram ] &nbsp;![기간](https://img.shields.io/badge/25.12.16_~_Present-343a40?style=flat-square) ![배포](https://img.shields.io/badge/Beta_Distribution-007bff?style=flat-square)
+### Project E : [ Hexagram ] &nbsp;![기간](https://img.shields.io/badge/25.12.16_~_Present-343a40?style=flat-square) ![배포](https://img.shields.io/badge/Beta Release-007bff?style=flat-square)
 <img src=https://github.com/user-attachments/assets/c3f5e17f-9d97-4df3-ab85-412915b3507e width="400" height="225"/> 
 <img src=https://github.com/user-attachments/assets/04ccc055-b585-43ad-bfcb-9ede5fc0c0fd width="400" height="225"/>
 
